@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Version: 11200.2
+## Version: 11200.3
 ## Title: Fizzwidget Feed-O-Matic
 ## Author: Gazmik Fizzwidget
 ## Notes: Helps a Hunter keep his pets well fed (and the food in his inventory under control)
