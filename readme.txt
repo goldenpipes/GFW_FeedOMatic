@@ -61,6 +61,7 @@ VERSION HISTORY
 v. 12000.3 - 2025/07/26
 - Added Ripe Tel'Abim Bananas (twow)
 - Added Conjured Mana Oranges (twow)
+- Added Gargantuan Tel'Abim Bananas (twow)
 
 v. 12000.2 - 2006/10/27
 - Now always prefers conjured foods if available when feeding a pet that can eat them. (This was supposed to have been the case before, but the implementation turned out to be unreliable.)
