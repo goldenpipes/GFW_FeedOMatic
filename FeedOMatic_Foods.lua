@@ -170,6 +170,7 @@ FOM_Foods = {
 		4538,		--	Snapvine Watermelon		
 		4537,		--	Tel'Abim Banana
 		6420,		--	Ripe Tel'Abim Banana
+		60955,		--	Gargantuan Tel'Abim Banana
 		11950,		--	Windblossom Berries
 		83004,  	--  	Conjured Mana Orange
 	},					
