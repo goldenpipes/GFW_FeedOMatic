@@ -58,6 +58,10 @@ CAVEATS, ETC.:
 ------------------------------------------------------
 VERSION HISTORY
 
+v. 12000.3 - 2025/07/26
+- Added Ripe Tel'Abim Bananas (twow)
+- Added Conjured Mana Oranges (twow)
+
 v. 12000.2 - 2006/10/27
 - Now always prefers conjured foods if available when feeding a pet that can eat them. (This was supposed to have been the case before, but the implementation turned out to be unreliable.)
 - Fixed some issues which could result in Feed-O-Matic feeding the pet a food you'd told it to avoid, even if the "fall back" option was turned off. Also, a clearer error message is given if "fall back" is off and we can't find any allowed foods.
