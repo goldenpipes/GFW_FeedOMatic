@@ -143,14 +143,14 @@ FOM_Foods = {
 		21254,		--	Winter Veil Cookie
 		2683,		--	Crab Cake		
 		4541,		--	Freshly Baked Bread		
-		17197,	--	Gingerbread Cookie		
+		17197,		--	Gingerbread Cookie		
 		3666,		--	Gooey Spider Cake		
 		8950,		--	Homemade Cherry Pie		
 		4542,		--	Moist Cornbread		
 		4544,		--	Mulgore Spice Bread		
 		4601,		--	Soft Banana Bread		
 		4540,		--	Tough Hunk of Bread		
-		16169,	--	Wild Ricecake		
+		16169,		--	Wild Ricecake		
 	},					
 	[FOM_DIET_CHEESE] = {				
 		8932,		--	Alterac Swiss		
@@ -164,21 +164,23 @@ FOM_Foods = {
 		19994,		--	Harvest Fruit			
 		8953,		--	Deep Fried Plantains		
 		4539,		--	Goldenbark Apple		
-		16168,	--	Heaven Peach		
+		16168,		--	Heaven Peach		
 		4602,		--	Moon Harvest Pumpkin		
 		4536,		--	Shiny Red Apple		
 		4538,		--	Snapvine Watermelon		
-		4537,		--	Tel'Abim Banana		
-		11950,	--	Windblossom Berries		
+		4537,		--	Tel'Abim Banana
+		6420,		--	Ripe Tel'Abim Banana
+		11950,		--	Windblossom Berries
+		83004,  	--  	Conjured Mana Orange
 	},					
 	[FOM_DIET_BONUS] = {					
 	-- eat for 10 sec to get "well fed" sta/spi bonus					
 		2888,		--	Beer Basted Boar Ribs		
-		11584,	--	Cactus Apple Surprise		
+		11584,		--	Cactus Apple Surprise		
 		7807,		--	Candy Bar		
 		7808,		--	Chocolate Square		
-		12224,	--	Crispy Bat Wing		
-		17197,	--	Gingerbread Cookie		
+		12224,		--	Crispy Bat Wing		
+		17197,		--	Gingerbread Cookie		
 		6888,		--	Herb Baked Egg		
 		5472,		--	Kaldorei Spider Kabob		
 		7806,		--	Lollipop		
